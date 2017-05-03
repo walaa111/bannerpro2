@@ -1,10 +1,82 @@
 {
-    "cordova-plugin-admobpro": {
-        "source": {
-            "type": "registry",
-            "id": "cordova-plugin-admobpro"
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
         },
-        "is_top_level": true,
-        "variables": {}
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.pointdeveloper.bannerpro"
+        }
     }
 }

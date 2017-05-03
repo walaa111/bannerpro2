@@ -115,5 +115,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="cordova-plugin-admobpro" spec="~2.28.3" />
-       <plugin name="cordova-plugin-inappbrowser" />
+  
 </widget>
